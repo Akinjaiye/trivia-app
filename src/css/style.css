@@ -2,6 +2,12 @@ body{
     margin: 0;
     padding: 0;
     background-color: blue;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .genre-column{
