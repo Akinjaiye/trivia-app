@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: blue;
+    background-color: rgb(179, 255, 0);
     color: #fff;
     font-family: 'Courier New', Courier, monospace;
     display: flex;
@@ -14,4 +14,14 @@ body{
     display: flex;
     flex-direction: column;
     text-align: center;
+}
+.card{
+    width: 200px;
+    height: 120px;
+    border-radius: 20px;
+    background-color: #4545bf;
+    border: solid rgb(0, 255, 42) 5px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
 }
