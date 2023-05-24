@@ -28,3 +28,18 @@ body{
 #game{
     display: flex;
 }
+.correct-answer {
+    background-color: #f18760;
+}
+
+.wrong-answer {
+    background-color: #c73b1e;
+}
+
+.true-button {
+    background-color: #63b36e;
+}
+
+.false-button {
+    background-color: #aa231e;
+}
