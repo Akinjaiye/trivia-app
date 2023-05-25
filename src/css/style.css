@@ -1,13 +1,14 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(179, 255, 0);
-    color: #fff;
+    background-color: yellow;
+    color:black;
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 100vh;
 }
 
 .genre-column{
@@ -17,10 +18,10 @@ body{
 }
 .card{
     width: 200px;
-    height: 120px;
+    height: 200px;
     border-radius: 20px;
-    background-color: #4545bf;
-    border: solid rgb(0, 255, 42) 5px;
+    background-color: blue;
+    border: solid white 5px;
     text-align: center;
     padding: 5px;
     margin: 10px;
@@ -29,7 +30,7 @@ body{
     display: flex;
 }
 .correct-answer {
-    background-color: #f18760;
+    background-color: purple;
 }
 
 .wrong-answer {

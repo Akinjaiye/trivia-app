@@ -1,31 +1,34 @@
-# (Application Name)
+# TRIVIA APP
 
-#### (Brief Description of Application)
+#### An application that generates questions and the user provides an answer
 
-#### By (Your Name Here)
+#### By Durojaiye Akindiji
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
+* JAVASCRIPT
+* WEBPACK
+* API
 
-## Description
+
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Open git hub in your browser
+* Search username Akinjaiye on git hub
+* Clone git repository on your browser
+* run npm install
+
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* None
+
 
 ## License
+* MIT License
 
 ## Contact Information
+* akindijiduro@gmail.com
