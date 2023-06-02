@@ -1,7 +1,7 @@
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/style.css';
-
+// import {getResult} from './js/trivia.js'
 
 const game = document.getElementById('game')
 const scoreDisplay = document.getElementById('score')
@@ -112,4 +112,4 @@ function getResult() {
     cardOfButton.removeEventListener('click',flipCard)
 }
 
-// getResult();
+getResult();
