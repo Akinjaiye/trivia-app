@@ -11,6 +11,7 @@
 * JAVASCRIPT
 * WEBPACK
 * API
+* GIT
 
 
 
@@ -18,8 +19,8 @@
 
 * Open git hub in your browser
 * Search username Akinjaiye on git hub
-* Clone git repository on your browser
-* run npm install
+* Clone this repository to your desktop
+* Run npm install
 
 
 ## Known Bugs
