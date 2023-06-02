@@ -19,7 +19,7 @@ body{
 .card{
     width: 200px;
     height: 200px;
-    border-radius: 20px;
+    /* border-radius: 20px; */
     background-color: blue;
     border: solid white 5px;
     text-align: center;
@@ -30,7 +30,7 @@ body{
     display: flex;
 }
 .correct-answer {
-    background-color: purple;
+    background-color: green;
 }
 
 .wrong-answer {
