@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: yellow;
-    color:black;
+    color:white;
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     justify-content: center;
@@ -18,8 +18,8 @@ body{
 }
 .card{
     width: 200px;
-    height: 200px;
-    /* border-radius: 20px; */
+    height: 250px;
+    border-radius: 20px;
     background-color: blue;
     border: solid white 5px;
     text-align: center;
@@ -43,4 +43,7 @@ body{
 
 .false-button {
     background-color: #aa231e;
+}
+h2{
+    background-color:black;
 }

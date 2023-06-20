@@ -8,6 +8,7 @@ const scoreDisplay = document.getElementById('score');
 let score = 0;
 
 
+
 function flipCard() {
     this.innerHTML = ''
     this.style.fontSize = '15px'

@@ -34,9 +34,9 @@ export function addGenre(genre) {
 
     levels.forEach(level => {
         const card = document.createElement('div')
-        card.classList.add('card')
+        card.classList.add('card') 
         column.append(card)
-
+ 
         if (level === 'easy') {
             card.innerHTML = 100
         }
