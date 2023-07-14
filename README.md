@@ -24,8 +24,7 @@
 
 
 ## Known Bugs
-
-* None
+* You can re-click a card if you got it wrong to affect the score
 
 
 ## License
