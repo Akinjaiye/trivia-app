@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: yellow;
-    color:white;
+    color:black;
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     justify-content: center;
@@ -45,5 +45,5 @@ body{
     background-color: #aa231e;
 }
 h2{
-    background-color:black ;
+    background-color:white ;
 }
